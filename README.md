@@ -17,3 +17,5 @@
 [26.删除排序数组中的重复项](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9/removeDuplicates.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
+
+[27.移除元素](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/27.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/removeElement.md)
