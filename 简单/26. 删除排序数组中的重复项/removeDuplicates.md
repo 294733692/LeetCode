@@ -31,6 +31,26 @@
 源码：
 
 ```js
-
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = function(nums) {
+    
+    if (nums.length === 0) return 0
+    let i = 0
+    for (let j = 1; j < nums.length; j++) {
+        if (nums[i] != nums[j]) {
+            i++
+            nums[i] = nums[j]
+        }
+    }
+    return i + 1
+};
 ```
+
+**复杂度分析**
+
+- 时间复杂度：O(n)*O*(*n*)，假设数组的长度是 n*n*，那么 i*i* 和 j*j* 分别最多遍历 n*n* 步。
+- 空间复杂度：O(1)*O*(1)。
 
