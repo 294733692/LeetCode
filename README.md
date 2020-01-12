@@ -20,5 +20,7 @@
 
 [28.实现strStr(indexOf)函数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/28.%E5%AE%9E%E7%8E%B0strStr()%EF%BC%8C%E7%B1%BB%E4%BC%BC%E4%BA%8EindexOf/strStr.md)
 
+[35.搜索插入位置](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE/searchInsert.md)
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
 
