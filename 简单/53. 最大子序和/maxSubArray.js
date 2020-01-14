@@ -51,6 +51,22 @@ let maxSubArray = function (nums) {
   return _helper(nums, 0, nums.length - 1)
 };
 
-// console.log(maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
-console.log(maxSubArray([-2,-1]))
-// maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4])
+let maxSubArray1 = function (nums) {
+  let result = nums[0]
+  let sum = 0
+  for (let num of nums) {
+    // 小于0，无增益，舍弃
+    if (sum < 0) {
+      sum = num
+    } else { // 大于0，有增益，加上
+      sum += num
+    }
+    // 比较最大值，返回
+    result = Math.max(result, sum)
+  }
+  return result
+}
+
+console.log(maxSubArray1([-2, 1, -3, 4, -1, 2, 1, -5, 4]))
+// console.log(maxSubArray1([-2, -1]))
+maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4])
