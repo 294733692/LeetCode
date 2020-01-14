@@ -39,10 +39,10 @@ let maxSubArray = function (nums) {
     if (left === right) return nums[left]
     // 求出中间值，取整
     let mid = parseInt((left + right) / 2)
+
     // left: 从数组中间进行拆分
     let leftSum = _helper(nums, left, mid)
     let rightSum = _helper(nums, mid + 1, right)
-
     let crossSum = _crossSum(nums, left, right, mid)
 
     return Math.max(Math.max(leftSum, rightSum), crossSum)
