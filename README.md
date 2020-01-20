@@ -40,6 +40,6 @@
 
 [88. 合并两个有序数组](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/merge.md)
 
-[100.相同的树](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/merge.md)
+[100.相同的树](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/100.%20%E7%9B%B8%E5%90%8C%E7%9A%84%E6%A0%91/isSameTree.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
