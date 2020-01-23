@@ -11,6 +11,7 @@
  */
 let levelOrderBottom = function (root) {
   if (!root) return []
+  // 记录层级数组
   let result = []
   let _transOrder = (tree, level) => {
     if (tree !== null) {
