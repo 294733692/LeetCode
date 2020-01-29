@@ -56,4 +56,6 @@
 
 [112.路径总和](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/112.%20%E8%B7%AF%E5%BE%84%E6%80%BB%E5%92%8C/hasPathSum.md)
 
+[118.杨辉三角](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/118.%20%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92/generate.md)
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
