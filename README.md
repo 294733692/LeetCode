@@ -74,6 +74,8 @@
 
 [160.相交链表](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/getIntersectionNode.md)
 
+[169.多数元素](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0/majorityElement.md)
+
 [167. 两数之和 II - 输入有序数组](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/twoSum.md)
 
 [168. Excel表列名称](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0/convertToTitle.md)
