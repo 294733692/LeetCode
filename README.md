@@ -74,10 +74,12 @@
 
 [160.相交链表](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8/getIntersectionNode.md)
 
-[169.多数元素](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0/majorityElement.md)
-
 [167. 两数之和 II - 输入有序数组](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84/twoSum.md)
 
 [168. Excel表列名称](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0/convertToTitle.md)
+
+[169.多数元素](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0/majorityElement.md)
+
+[171. Excel表列序号](https://github.com/294733692/LeetCode/tree/master/%E7%AE%80%E5%8D%95/171.%20Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
