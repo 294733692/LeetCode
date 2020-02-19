@@ -90,7 +90,7 @@
 
 [191. 位1的个数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0/hammingWeight.md)
 
-[202. 快乐数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0/hammingWeight.md)
+[202. 快乐数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0/isHappy.md)
 
 [198. 打家劫舍](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D/rob.md)
 
