@@ -90,10 +90,12 @@
 
 [191. 位1的个数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0/hammingWeight.md)
 
+[198. 打家劫舍](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D/rob.md)
+
 [202. 快乐数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0/isHappy.md)
 
 [203. 移除链表元素](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/203.%20%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0/removeElements.md)
 
-[198. 打家劫舍](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D/rob.md)
+[204. 计数质数](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D/rob.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
