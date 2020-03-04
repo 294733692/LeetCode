@@ -76,7 +76,7 @@ let lowestCommonAncestor = function (root, p, q) {
 
   if (qVal > parentVal && pVal > parentVal) {
     // 如果q节点的val值和p节点的val值都大于当前节点的父节点val值
-    // 满足上面说的第二个特性，所有判断公共祖先节点在右边（即情况1）
+    // 满足上面说的第二个特性，所以判断公共祖先节点在右边（即情况1）
     return lowestCommonAncestor(root.right, p, q)
   } else if (pVal < parentVal && qVal < parentVal) {
     // 如果q节点val值和p节点val值，都小于当前节点父节点val值
