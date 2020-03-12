@@ -132,6 +132,6 @@
 
 [278. 第一个错误的版本(First Bad Version)](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%88First%20Bad%20Version%EF%BC%89/solution.md)
 
-[283. 移动零（move Zeroes）]()
+[283. 移动零（move Zeroes）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%88%20Move%20Zeroes%EF%BC%89/moveZeroes.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)

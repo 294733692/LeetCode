@@ -14,6 +14,8 @@
 1. 必须在原数组上操作，不能拷贝额外的数组。
 2. 尽量减少操作次数。
 
+LeetCode题目地址：[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+
 解法1：双次循环
 
 思路：
