@@ -134,4 +134,6 @@
 
 [283. 移动零（move Zeroes）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%88%20Move%20Zeroes%EF%BC%89/moveZeroes.md)
 
+[290. 单词规律（ Word Pattern）]()
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
