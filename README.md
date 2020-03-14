@@ -134,7 +134,7 @@
 
 [283. 移动零（move Zeroes）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6%EF%BC%88%20Move%20Zeroes%EF%BC%89/moveZeroes.md)
 
-[292. Nim 游戏 （Nim Game）]()
+[292. Nim 游戏 （Nim Game）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/292.%20Nim%20%E6%B8%B8%E6%88%8F%20%EF%BC%88Nim%20Game%EF%BC%89/canWinNim.md)
 
 [290. 单词规律（ Word Pattern）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/290.%20%E5%8D%95%E8%AF%8D%E8%A7%84%E5%BE%8B%EF%BC%88%20Word%20Pattern%EF%BC%89/wordPattern.md)
 
