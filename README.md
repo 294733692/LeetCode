@@ -138,6 +138,6 @@
 
 [292. Nim 游戏 （Nim Game）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/292.%20Nim%20%E6%B8%B8%E6%88%8F%20%EF%BC%88Nim%20Game%EF%BC%89/canWinNim.md)
 
-[303. 区域和检索 - 数组不可变（Range Sum Query - Immutable）]()
+[303. 区域和检索 - 数组不可变（Range Sum Query - Immutable）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98%EF%BC%88Range%20Sum%20Query%20-%20Immutable%EF%BC%89/NumArray.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
