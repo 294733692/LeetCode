@@ -108,3 +108,10 @@ let isPowerOfThree = function (n) {
 解法5：整数限制
 
 通过枚举法，我们可以看到，3次幂的最大为`1162261467`，所有我们只需要判断`1162261467 % 3`是否为0即可
+
+```js
+let isPowerOfThree = function (n) {
+    return n > 0 && 1162261467 % n == 0;
+}
+```
+
