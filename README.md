@@ -140,7 +140,7 @@
 
 [303. 区域和检索 - 数组不可变（Range Sum Query - Immutable）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98%EF%BC%88Range%20Sum%20Query%20-%20Immutable%EF%BC%89/NumArray.md)
 
-[349. 两个数组的交集（ Intersection of Two Arrays）]()
+[349. 两个数组的交集（ Intersection of Two Arrays）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/349.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%88%20Intersection%20of%20Two%20Arrays%EF%BC%89/intersection.md)
 
 [326. 3的幂（Power of Three）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/326.%203%E7%9A%84%E5%B9%82%EF%BC%88Power%20of%20Three%EF%BC%89/isPowerOfThree.md)
 
