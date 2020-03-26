@@ -160,5 +160,7 @@
 
 [383. 赎金信（Ransom Note）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/383.%20%E8%B5%8E%E9%87%91%E4%BF%A1%EF%BC%88Ransom%20Note%EF%BC%89/canConstruct.md)
 
+[387. 字符串中的第一个唯一字符（First Unique Character in a String）]()
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
 
