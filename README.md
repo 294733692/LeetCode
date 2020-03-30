@@ -166,7 +166,7 @@
 
 [392. 判断子序列（Is Subsequence）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97%EF%BC%88Is%20Subsequence%EF%BC%89/isSubsequence.md)
 
-[404. 左叶子之和（Sum of Left Leaves）]()
+[404. 左叶子之和（Sum of Left Leaves）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/404.%20%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C%EF%BC%88Sum%20of%20Left%20Leaves%EF%BC%89/sumOfLeftLeaves.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
 
