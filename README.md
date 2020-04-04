@@ -168,7 +168,7 @@
 
 [404. 左叶子之和（Sum of Left Leaves）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/404.%20%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C%EF%BC%88Sum%20of%20Left%20Leaves%EF%BC%89/sumOfLeftLeaves.md)
 
-[405. 数字转换为十六进制数（Convert a Number to Hexadecimal）]()
+[405. 数字转换为十六进制数（Convert a Number to Hexadecimal）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0%EF%BC%88Convert%20a%20Number%20to%20Hexadecimal%EF%BC%89/toHex.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
 
