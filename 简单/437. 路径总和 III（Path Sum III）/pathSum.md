@@ -28,6 +28,8 @@ root = [10,5,-3,3,2,null,11,3,-2,null,1], sum = 8
 
 解法1：单次递归
 
+思路：使用数组存放每个节点的`val`值，从数组后面开始遍历，如果当前数组`val`相加等于`sum`，那么满足条件，`count++`，需要注意的是，每条路径遍历完需要删除数组最后一位的`val`。
+
 ```js
 /**
  * Definition for a binary tree node.
@@ -41,9 +43,6 @@ root = [10,5,-3,3,2,null,11,3,-2,null,1], sum = 8
  * @param {number} sum
  * @return {number}
  */
-
-// 1、遍历出每个路径
-// 2、计算每个路径的值，判断和sum是否相等
 let pathSum = function (root, sum) {
   let count = 0
   let data = []

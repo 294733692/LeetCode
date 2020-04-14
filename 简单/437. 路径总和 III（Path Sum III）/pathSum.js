@@ -11,9 +11,8 @@
  * @return {number}
  */
 
-// 1、遍历出每个路径
-// 2、计算每个路径的值，判断和sum是否相等
 let pathSum = function (root, sum) {
+  // 存放满足条件的路径条数
   let count = 0
   let data = []
   let _helper = function (root, sum, data) {
