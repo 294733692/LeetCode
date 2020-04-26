@@ -190,4 +190,6 @@
 
 [448. 找到所有数组中消失的数字（ Find All Numbers Disappeared in an Array）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/448.%20%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%88%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array%EF%BC%89/findDisappearedNumbers.md)
 
+[453. 最小移动次数使数组元素相等 （Minimum Moves to Equal Array Elements）]()
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
