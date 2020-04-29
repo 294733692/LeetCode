@@ -194,4 +194,6 @@
 
 [455. 分发饼干（Assign Cookies）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2%EF%BC%88Assign%20Cookies%EF%BC%89/findContentChildren.md)
 
+[459. 重复的子字符串（ Repeated Substring Pattern）]()
+
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
