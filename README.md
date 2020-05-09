@@ -202,6 +202,6 @@
 
 [476. 数字的补数（ Number Complement）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/476.%20%E6%95%B0%E5%AD%97%E7%9A%84%E8%A1%A5%E6%95%B0%EF%BC%88%20Number%20Complement%EF%BC%89/findComplement.md)
 
-[482. 密钥格式化（License Key Formatting）]()
+[482. 密钥格式化（License Key Formatting）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/482.%20%E5%AF%86%E9%92%A5%E6%A0%BC%E5%BC%8F%E5%8C%96%EF%BC%88License%20Key%20Formatting%EF%BC%89/licenseKeyFormatting.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
