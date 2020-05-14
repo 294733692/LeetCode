@@ -206,6 +206,6 @@
 
 [485. 最大连续1的个数（Max Consecutive Ones）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/485.%20%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0%EF%BC%88Max%20Consecutive%20Ones%EF%BC%89/findMaxConsecutiveOnes.md)
 
-[492. 构造矩形（ Construct the Rectangle）]()
+[492. 构造矩形（ Construct the Rectangle）](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/492.%20%E6%9E%84%E9%80%A0%E7%9F%A9%E5%BD%A2%EF%BC%88%20Construct%20the%20Rectangle%EF%BC%89/constructRectangle.md)
 
 [557.反转字符串中的单词](https://github.com/294733692/LeetCode/blob/master/%E7%AE%80%E5%8D%95/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III/reverseWord.md)
