@@ -28,7 +28,7 @@ leetCode题目地址：[5. 最长回文子串](https://leetcode-cn.com/problems/
 
 解法1：中心扩散法
 
-基本思想就是，遍历字符串，以每个字符串为中心，向左右遍历，看左右值是否相等，并记录当前的最大那个回文长度。
+​	基本思想就是，遍历字符串，以每个字符串为中心，向左右遍历，看左右值是否相等，并记录当前的最大那个回文长度。
 
 这里需要注意的是，需要判断当前出现的回文的形式，是`奇数回文`还是`偶数回文`，并去两个当中的最大值。
 
@@ -71,5 +71,63 @@ let longestPalindrome1 = (s) => {
   return s.slice(start, start + maxLen)
 }
 
+```
+
+
+
+解法2：动态规划
+
+​	生成动态规划数组，`dp`，`dp[i][j]`为`true`，表示`s[i..j]`是否是回文字符串，
+
+​	举一个例子：`abcba`
+
+​	上面是一个回文字符串，那么删除开始和结束的`a`，那么剩下的字符也是一个回文字符串，这里我们就可对当前的状态方程进行转移：
+
+`dp[i][j] = dp[i + 1][j - 1]`。
+
+但是还是需要注意边界情况：`j - 1 - (i + 1) + 1 < 2`，整理得`j - 1 < 3   <==> j - i  + 1 < 4`，及当`s[i...j]`长度为2或者3的时候，不用检查子串是否为回文。
+
+```js
+let longestPalindrome2 = (s) => {
+  let len = s.length
+  if (len < 2) return s
+
+  let maxLen = 1
+  let start = 0
+
+  // 生成动态规划数组，表示s[i...j]是否是回文串
+  let dp = new Array(len)
+  for (let i = 0; i < len; i++) {
+    dp[i] = new Array(len)
+  }
+  dp.forEach(item => item.fill(true))
+
+  // 注意：先填左下角
+  // 填表规则：先一列一列的填写，再一行一行的填，保证左下方的单元格先进行计算
+  for (let j = 1; j < len; j++) {
+    for (let i = 0; i < j; i++) {
+      // 头尾字符不相等，不是回文串
+      if (s[i] !== s[j]) {
+        dp[i][j] = false
+      } else {
+        // 相等的情况下
+        // 考虑头尾去掉以后没有字符剩余，或者剩下一个字符的时候，肯定是回文串
+        if (j - i < 3) {
+          dp[i][j] = true
+        } else {
+          // 状态转移
+          dp[i][j] = dp[i + 1][j - 1]
+        }
+      }
+
+      // 只要dp[i][j]为true，就表示s[i..j]是回文，更新记录回文长度和起始位置
+      if (dp[i][j] && j - i + 1 > maxLen) {
+        maxLen = j - i + 1
+        start = i
+      }
+    }
+  }
+  return s.slice(start, start + maxLen)
+}
 ```
 
