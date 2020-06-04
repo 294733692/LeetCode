@@ -226,4 +226,4 @@
 
 [5. 最长回文子串（ Longest Palindromic Substring）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2%EF%BC%88%20Longest%20Palindromic%20Substring%EF%BC%89/longestPalindrome.md)
 
-[6. Z 字形变换（ZigZag Conversion）]()
+[6. Z 字形变换（ZigZag Conversion）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/6.%20Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2%EF%BC%88ZigZag%20Conversion%EF%BC%89/convert.md)
