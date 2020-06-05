@@ -3,6 +3,8 @@
  * @param {number} numRows
  * @return {string}
  */
+
+// 按行排序
 let convert = function (s, numRows) {
   if (s.length === 1) return s
   let len = Math.max(s.length, numRows) // 防止s的长度，小于生成数组的行数
@@ -19,4 +21,20 @@ let convert = function (s, numRows) {
   for (let key of row) str += key
   return str
 };
-convert('PAHNAPLSIIGYIR', 3)
+
+// 按行访问
+let convert1 = function (s, numRows) {
+  if (numRows === 1) return s
+  let arr = new Array(numRows).fill('') // 构建数组
+  let n = numRows * 2 - 2 // 循环周期，2倍行数 - 首尾
+  for (let i = 0; i < s.length; i++) {
+    let x = i % n
+    // x < numRows， x对应行好
+    // x >= numRows，n - x对应行号
+    let curRow = x < numRows ? x : n - x
+    arr[curRow] += s[i]
+  }
+  return arr.join('')
+}
+
+console.log(convert1('PAHNAPLSIIGYIR', 3));

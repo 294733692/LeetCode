@@ -42,6 +42,8 @@ LeetCode题目地址：[6. Z 字形变换](https://leetcode-cn.com/problems/zigz
 
 ![img](https://pic.leetcode-cn.com/d610b140dd0789204efe699672dc72a83e7b826da0165bbf083d24fc97ecdea7-image.png)
 
+解法1：按行排序
+
 ```js
 /**
  * @param {string} s
@@ -66,5 +68,32 @@ let convert = function (s, numRows) {
 };
 convert('PAHNAPLSIIGYIR', 3)
 
+```
+
+解法2：按行访问
+
+对于字符串下标 `i`，可计算 `x = i % n`，确定在循环周期中的位置。
+
+- 当 `x < numRows` 时，`x` 对应行号。
+- 当 `x >= numRows` 时，`n - x` 对应行号。
+
+例如：numRows为6的时候
+
+![image-20200605110319232](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200605110319232.png)
+
+```js
+let convert1 = function (s, numRows) {
+  if (numRows === 1) return s
+  let arr = new Array(numRows).fill('') // 构建数组
+  let n = numRows * 2 - 2 // 循环周期，2倍行数 - 首尾
+  for (let i = 0; i < s.length; i++) {
+    let x = i % n
+    // x < numRows， x对应行好
+    // x >= numRows，n - x对应行号
+    let curRow = x < numRows ? x : n - x
+    arr[curRow] += s[i]
+  }
+  return arr.join('')
+}
 ```
 
