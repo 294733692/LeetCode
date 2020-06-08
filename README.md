@@ -228,4 +228,4 @@
 
 [6. Z 字形变换（ZigZag Conversion）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/6.%20Z%20%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2%EF%BC%88ZigZag%20Conversion%EF%BC%89/convert.md)
 
-[8. 字符串转换整数（String to Integer）]()
+[8. 字符串转换整数（String to Integer）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%EF%BC%88String%20to%20Integer%EF%BC%89/myAtoi.md)
