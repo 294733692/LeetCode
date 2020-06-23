@@ -246,4 +246,4 @@
 
 [29. 两数相除（Divide Two Integers）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/29.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4%EF%BC%88Divide%20Two%20Integers%EF%BC%89/divide.md)
 
-[31. 下一个排列（ Next Permutation）]()
+[31. 下一个排列（ Next Permutation）](https://github.com/294733692/LeetCode/blob/master/%E4%B8%AD%E7%AD%89/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97%EF%BC%88%20Next%20Permutation%EF%BC%89/nextPermutation.md)
