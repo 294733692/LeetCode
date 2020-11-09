@@ -254,12 +254,12 @@
 
 #### 贪心算法
 
-[134. 加油站（ Gas Station）](https://github.com/294733692/LeetCode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/134.%20%E5%8A%A0%E6%B2%B9%E7%AB%99%EF%BC%88%20Gas%20Station%EF%BC%89/canCompleteCircuit.md)
+[134. 加油站（ Gas Station）](https://github.com/294733692/LeetCode/tree/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E7%AE%80%E5%8D%95/134.%20%E5%8A%A0%E6%B2%B9%E7%AB%99%EF%BC%88%20Gas%20Station%EF%BC%89/canCompleteCircuit.md)
 
-[860. 柠檬水找零（Lemonade Change）](https://github.com/294733692/LeetCode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6%EF%BC%88Lemonade%20Change%EF%BC%89/lemonadeChange.md)
+[860. 柠檬水找零（Lemonade Change）](https://github.com/294733692/LeetCode/tree/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E7%AE%80%E5%8D%95/860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6%EF%BC%88Lemonade%20Change%EF%BC%89/lemonadeChange.md)
 
-[874. 模拟行走机器人（Walking Robot Simulation）](https://github.com/294733692/LeetCode/tree/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/874.%20%E6%A8%A1%E6%8B%9F%E8%A1%8C%E8%B5%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%88Walking%20Robot%20Simulation%EF%BC%89)
+[874. 模拟行走机器人（Walking Robot Simulation）](https://github.com/294733692/LeetCode/tree/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E7%AE%80%E5%8D%95/874.%20%E6%A8%A1%E6%8B%9F%E8%A1%8C%E8%B5%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%88Walking%20Robot%20Simulation%EF%BC%89)
 
 #### 困难
 
-[45. 跳跃游戏 II（ Jump Game II） - 困难]()
+[45. 跳跃游戏 II（ Jump Game II） - 困难](https://github.com/294733692/LeetCode/blob/master/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/%E5%9B%B0%E9%9A%BE/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II%EF%BC%88%20Jump%20Game%20II%EF%BC%89/jump.md)
